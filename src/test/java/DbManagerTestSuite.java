@@ -12,7 +12,7 @@ public class DbManagerTestSuite {
         //Given
         DbManager dbManager = DbManager.getInstance();
         //When
-        String query = "SELECT U.FIRSTNAME, U.LASTANEM FROM POSTS P\n" +
+        String query = "SELECT U.FIRSTNAME, U.LASTNAME FROM POSTS P\n" +
                 "JOIN USERS U\n" +
                 "ON U.ID = P.USER_ID\n" +
                 "GROUP BY P.USER_ID\n" +
