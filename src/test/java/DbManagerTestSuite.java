@@ -23,7 +23,7 @@ public class DbManagerTestSuite {
         int i = 0;
         while(resultSet.next()){
             System.out.println("FIRSTNAME: " + resultSet.getString("FIRSTNAME")
-                                + ", LASTNAME: " + resultSet.getString("LASTANEM"));
+                                + ", LASTNAME: " + resultSet.getString("LASTNAME"));
             i++;
         }
         //Then
