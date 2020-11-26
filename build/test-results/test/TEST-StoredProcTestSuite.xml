@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StoredProcTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-26T12:57:22" hostname="ADMIN-NTT" time="0.37">
+  <properties/>
+  <testcase name="testUpdateBestsellers" classname="StoredProcTestSuite" time="0.37"/>
+  <system-out><![CDATA[Title: Man's Fate
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
